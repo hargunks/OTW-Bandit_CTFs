@@ -4,7 +4,7 @@
 
 
 # OverTheWire : Bandit 
-## Description
+## Introduction
 
 Embark on the exhilarating journey of OverTheWire's Bandit challenge—an immersive cybersecurity adventure. With levels ranging from the basics to intricate security puzzles, Bandit invites us to hone our skills in a playful environment. As we progress through each level, we unravel the intricacies of Linux security, scripting, and ethical hacking practices. 
 
