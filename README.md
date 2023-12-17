@@ -6,7 +6,8 @@
 # OverTheWire : Bandit 
 ## Introduction
 
-Embark on the exhilarating journey of OverTheWire's Bandit challenge—an immersive cybersecurity adventure. With levels ranging from the basics to intricate security puzzles, Bandit invites us to hone our skills in a playful environment. As we progress through each level, we unravel the intricacies of Linux security, scripting, and ethical hacking practices. 
+Embark on the exhilarating journey of OverTheWire's Bandit challenge—an immersive cybersecurity adventure. With levels ranging from the basics to intricate security puzzles, Bandit invites us to hone our skills in a playful environment. As we progress through each level, we unravel the intricacies of Linux security, scripting, and ethical hacking practices. SSH, or Secure Shell, is a cryptographic network protocol that provides a secure and encrypted communication channel over an unsecured network. Widely used in the realm of cybersecurity, SSH ensures secure access to remote systems, enabling efficient and confidential data exchange. It serves as the linchpin in the Bandit challenge, providing a safe channel for us to access the challenge server. SSH facilitates the execution of commands and navigation through the Linux environment. As the gateway to the challenges, this protocol enables seamless and protected remote connections, and establishes a secure foundation for us to engage with and overcome the complexities of the Bandit challenge.
+
 
 
 
