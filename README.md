@@ -1,4 +1,4 @@
-![Logo](https://patchthenet.com/storage/images/1690123304.jpg)
+![Logo](https://miro.medium.com/v2/resize:fit:400/format:webp/1*4RezmNBsqmK3NPA5nhjulg.png)
 
 
 
