@@ -13,7 +13,7 @@ Embark on the exhilarating journey of OverTheWire's Bandit challenge—an immers
 
 
 ## Table of Contents
-[🚩Bandit Level 00]()
+[🚩Bandit Level 00](https://github.com/hargunks/OverTheWire/blob/main/Bandit/Bandit%20Level%2000.pdf)
 
 [🚩Bandit Level 00-01]()
 
